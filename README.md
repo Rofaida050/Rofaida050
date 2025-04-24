@@ -1,10 +1,15 @@
 👋 I'm Rofeida (Punny)
 
-🔭 I'm currently studying Computer Science and diving into Data Science & Machine Learning.  
-📊 I love working on projects that involve data analysis and beautiful visualizations.  
-💻 I've worked with several languages like: Python – Java – C – C++  
-🌱 I'm currently building a sales tracking dashboard called "PulseShop Sales."
-🌟 I'm also an ambassador at EME, where I engage with a vibrant tech community and represent student voices.
+ a curious soul with a passion for data, creativity, and doing things the smart way 😌.
+
+I believe data isn't just numbers — it's stories waiting to be told. Whether it's with Python, Pandas, or a slick visualization, I love turning raw information into something insightful and beautiful.
+
+💡 I’m always exploring new challenges
+🎯 I value creativity, growth, and purposeful success
+🧠 I bring persistence, humor, and a deep love for learning into every project
+
+Right now, I’m diving deep into the world of data science and building my journey one meaningful project at a time. Join me? 🚀
+
 
 📫 Let's connect:
 - Email: Rofaida.khaled1111@gmail.com
