@@ -8,7 +8,7 @@
 
 📫 Let's connect:
 - LinkedIn: [https://www.linkedin.com/in/rofaida-khaled]  
-- Email: Rofeida@khaled1111@gmail.com
+- Email: Rofaida@khaled1111@gmail.com
 
 ## Hi there 👋
 
