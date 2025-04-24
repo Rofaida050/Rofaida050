@@ -1,6 +1,6 @@
 👋 I'm Rofeida (Punny)
 
- a curious soul with a passion for data, creativity, and doing things the smart way 😌.
+ a curious soul with a passion for data, creativity, and doing things the smart wayز
 
 I believe data isn't just numbers — it's stories waiting to be told. Whether it's with Python, Pandas, or a slick visualization, I love turning raw information into something insightful and beautiful.
 
@@ -14,7 +14,6 @@ Right now, I’m diving deep into the world of data science and building my jour
 📫 Let's connect:
 - Email: Rofaida.khaled1111@gmail.com
 
-## Hi there 👋
 
 <!--
 **Rofaida050/Rofaida050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
