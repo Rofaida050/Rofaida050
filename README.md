@@ -7,7 +7,7 @@
 🌟 I'm also an ambassador at EME, where I engage with a vibrant tech community and represent student voices.
 
 📫 Let's connect:
-- Email: Rofaida@khaled1111@gmail.com
+- Email: Rofaida.khaled1111@gmail.com
 
 ## Hi there 👋
 
